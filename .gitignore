@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+Shop.iml
+lOG/
+lib/
+log_file.log
